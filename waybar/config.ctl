@@ -1,0 +1,3 @@
+1|24|top|( hyprland/workspaces ) ( hyprland/window )|( clock )|( memory custom/cpuinfo custom/gpuinfo ) ( backlight network pulseaudio pulseaudio#microphone ) ( tray battery hyprland/language )
+0|29|top|( wlr/taskbar mpris )|( idle_inhibitor clock )|( backlight network pulseaudio pulseaudio#microphone custom/updates ) ( privacy tray battery ) ( custom/wallchange custom/theme custom/wbar custom/cliphist custom/power )
+0|30|top|( hyprland/workspaces##kanji wlr/taskbar##custom )|( keyboard-state custom/hyprsunset idle_inhibitor clock##alt custom/updates  custom/keybindhint ) | ( privacy backlight tray network custom/bluetooth pulseaudio pulseaudio#microphone battery custom/gpuinfo custom/swaync )
