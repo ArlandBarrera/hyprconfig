@@ -4,7 +4,12 @@ Configuración perzonalizada de Hyprland para laptop (Thinkpad 😊).
 
 ## ⚡️ Requerimientos
 
+- git
+
+## Paquetes
+
 - zathura
+- calibre
 
 ## 📦 Instalación
 
@@ -15,7 +20,7 @@ sudo pacman -Syu
 ```
 
 ```bash
-pacman -S zathura
+sudo pacman -S zathura zathura-pdf-mupdf calibre
 ```
 
 ## ⚙️ Configuración
