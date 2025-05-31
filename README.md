@@ -8,9 +8,10 @@ Configuración perzonalizada de Hyprland para laptop (Thinkpad 😊).
 
 ## Paquetes
 
-- zathura
-- calibre
-- node, npm, nvm
+- zathura: lector de archivos
+- calibre: lector de epub
+- node, npm, nvm: javascript
+- neovim: editor de texto
 
 ## 📦 Instalación
 
@@ -21,7 +22,7 @@ sudo pacman -Syu
 ```
 
 ```bash
-sudo pacman -S zathura zathura-pdf-mupdf calibre nodejs npm nvm
+sudo pacman -S zathura zathura-pdf-mupdf calibre nodejs npm nvm neovim
 ```
 
 ## ⚙️ Configuración
