@@ -29,10 +29,18 @@ sudo pacman -S zathura zathura-pdf-mupdf calibre nodejs npm nvm neovim
 
 La configuración se encuentra generalmente en el directorio `home/$USER/.config/`.
 
-### NVM
+### nvm
 
 Agregar lo siguiente al archivo `~/.zshrc`
 
 ```
 source /usr/share/nvm/init-nvm.sh
 ```
+
+### LaTeX
+
+Es necesario instalar LaTeX en el sistema. Para ello hay que seguir los pasos en la web de [TeX Live](https://www.tug.org/texlive/quickinstall.html).
+
+### nvim
+
+La configuración de neovim se encuentra su repositorio particular [nvim](https://github.com/ArlandBarrera/nvim).
